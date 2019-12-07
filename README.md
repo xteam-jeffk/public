@@ -24,7 +24,7 @@
 6.  Bash scripting
 7.  CI/CD pipelines for [CircleCI](https://circleci.com) and [Travis CI](https://travis-ci.org)
 
-See my [resume](https://jeffkloy.me/wp-content/uploads/2019/10/resume-2019.3.1.pdf).
+See my [resume](https://jeffkloy.me/wp-content/uploads/2019/12/Resume-Jeff-Kloythanomsup-2019.3.2.pdf).
 
 ### My style
 
